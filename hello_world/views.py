@@ -7,6 +7,7 @@ moje_imie = "Natalia"
 msg = "Hello World!"
 
 @app.route('/')
+
 def index():
     output = request.args.get('output')
     if not output:
@@ -15,5 +16,6 @@ def index():
                          output.lower())
 
 @app.route('/outputs')
+
 def supported_output():
     return ", ".join(SUPPORTED)
