@@ -4,7 +4,8 @@ Simple Flask App
 .. image:: https://travis-ci.org/dzodzu/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/dzodzu/se_hello_printer_app
 
-<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=eHPKsRqYNY&Days=1&Design=6" /></a>
+.. image:: https://app.statuscake.com/button/index.php?Track=eHPKsRqYNY&Days=1&Design=6
+    :target: https://app.statuscake.com/UptimeStatus.php?tid=3937004
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć 
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
