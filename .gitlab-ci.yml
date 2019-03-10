@@ -10,7 +10,7 @@ test:
   - pip install -r test_requirements.txt
   - PYTHONPATH=. py.test --verbose -s
 
-docker:
+docker_build:
   image: docker:stable
   services:
     - docker:dind
