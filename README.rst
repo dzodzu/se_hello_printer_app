@@ -10,6 +10,8 @@ Simple Flask App
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć 
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
+Dostepna na https://secure-stream-77379.herokuapp.com/
+
 Aplikacja monitorowana na statuscake.com.
 
 - Rozpocząnając pracę z projektem (wykorzystując virtualenv). Hermetyczne środowisko dla pojedyńczej aplikacji w python-ie:
