@@ -16,4 +16,4 @@ docker_build:
     - docker:dind
   stage: docker_build
   script:
-  - docker_build -t myapp .
+  - docker build -t myapp .
